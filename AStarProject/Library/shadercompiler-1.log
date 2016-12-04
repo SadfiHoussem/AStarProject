@@ -1,0 +1,47 @@
+Base path: /Applications/Unity 4.6.0/Unity4.6.0.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-1--1585643096
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=691 outsize=1332 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4513 outsize=990 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4513 outsize=483 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2365 outsize=817 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2365 outsize=561 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1893 outsize=457 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1893 outsize=159 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4230 outsize=976 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4230 outsize=439 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: preprocess
+  insize=670 outsize=1304 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4419 outsize=919 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4419 outsize=401 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2372 outsize=817 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2372 outsize=561 kw=POINT ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1900 outsize=457 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1900 outsize=159 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4136 outsize=905 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4136 outsize=359 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: preprocess
+  insize=665 outsize=1299 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2372 outsize=560 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2372 outsize=380 kw=DIRECTIONAL ok=1
+Cmd: preprocess
+  insize=665 outsize=1299 ok=1
